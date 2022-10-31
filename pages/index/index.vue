@@ -1,5 +1,5 @@
 <template>
-<!-- 推送 23:33分 -->
+<!-- 更改 23:33分 -->
   <view class="index">
     <MusicHead title="网易云音乐" :icon="false"></MusicHead>
     <view class="container">
